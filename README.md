@@ -1,2 +1,2 @@
 ## I wanna help you to bypassing some filter php
-<img src="flag-haiti.png" width="50px"></img>
+COPYRIGHT <img src="110px-Flag_of_Haiti.svg.png" width="30px"></img>
